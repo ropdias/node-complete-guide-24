@@ -13,7 +13,7 @@ Section 34 covered:
 - [x] Working with Deno Permissions
 - [x] Repeating the Example with Node
 - [x] How Deno Features Are Organized
-- [ ] Using the Standard Library
+- [x] Using the Standard Library
 - [ ] Creating a Webserver
 - [ ] Using the Oak Framework with Deno
 - [ ] More on Module URLs
