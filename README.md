@@ -12,7 +12,7 @@ Section 34 covered:
 - [x] Using the Runtime API
 - [x] Working with Deno Permissions
 - [x] Repeating the Example with Node
-- [ ] How Deno Features Are Organized
+- [x] How Deno Features Are Organized
 - [ ] Using the Standard Library
 - [ ] Creating a Webserver
 - [ ] Using the Oak Framework with Deno
