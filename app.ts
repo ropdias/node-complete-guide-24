@@ -1,5 +1,8 @@
-let message: string;
+const text = "This is a test - and it should be stored in a file!";
 
-message = "Hi there!";
+const encoder = new TextEncoder();
+const data = encoder.encode(text);
 
-console.log(message);
+await Deno.writeFile("message.txt", data); // This returns a promise so we can use await
+
+console.log("Wrote to file!");

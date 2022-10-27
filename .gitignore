@@ -13,3 +13,6 @@
 
 # Compiled JS files:
 *.js
+
+# VS Code
+.vscode

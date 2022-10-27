@@ -9,7 +9,7 @@ Section 34 covered:
 - [x] Deno Setup
 - [x] Writing First Deno Code
 - [x] The Deno Runtime (Namespace) API
-- [ ] Using the Runtime API
+- [x] Using the Runtime API
 - [ ] Working with Deno Permissions
 - [ ] Repeating the Example with Node
 - [ ] How Deno Features Are Organized
