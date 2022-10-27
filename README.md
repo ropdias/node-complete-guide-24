@@ -16,8 +16,8 @@ Section 34 covered:
 - [x] Using the Standard Library
 - [x] Creating a Webserver
 - [x] Using the Oak Framework with Deno
-- [ ] More on Module URLs
-- [ ] An Example Node REST API
+- [x] More on Module URLs
+- [x] An Example Node REST API
 - [ ] Re-building the REST API with Deno
 - [ ] Should You Switch From Node to Deno?
 
