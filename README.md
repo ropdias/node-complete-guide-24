@@ -14,7 +14,7 @@ Section 34 covered:
 - [x] Repeating the Example with Node
 - [x] How Deno Features Are Organized
 - [x] Using the Standard Library
-- [ ] Creating a Webserver
+- [x] Creating a Webserver
 - [ ] Using the Oak Framework with Deno
 - [ ] More on Module URLs
 - [ ] An Example Node REST API
