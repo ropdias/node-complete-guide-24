@@ -18,8 +18,8 @@ Section 34 covered:
 - [x] Using the Oak Framework with Deno
 - [x] More on Module URLs
 - [x] An Example Node REST API
-- [ ] Re-building the REST API with Deno
-- [ ] Should You Switch From Node to Deno?
+- [x] Re-building the REST API with Deno
+- [x] Should You Switch From Node to Deno?
 
 
 
